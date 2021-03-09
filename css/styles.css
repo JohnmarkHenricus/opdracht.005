@@ -1,0 +1,60 @@
+body{
+
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(188, 235, 219);
+}
+img {
+  border-radius: 50%;
+  border-top-style: groove;
+}
+a { 
+  text-decoration: none; 
+}
+a:hover {
+background-color: darkblue;
+}
+
+ul, li{
+  display:inline;
+  padding-right: 10px;
+}
+main{
+  border-color: rgb(17, 53, 56);
+  border-style:double;
+  margin: auto;
+  width: 600px;
+  border-width: 3px;
+
+}
+header {
+  border-color: rgb(17, 53, 56);
+  background-color:cadetblue;
+  border-style:double;
+  padding-top: 25px;
+  padding-right: 50px;
+  padding-left: 75px ;
+  padding-bottom: 25px;
+  border-width: 3px;
+  margin-bottom:10px
+}
+article {
+  border-color:rgb(17, 53, 56);
+  border-style:double;
+  padding: 10px 10px 10px 10px;
+  border-radius: 15px;
+  margin-bottom:10px
+}
+ nav {
+    border-color:rgb(17, 53, 56);
+    border-style:double;
+    border-radius: 15px;
+    padding-left: 10px;
+    border-width: 3px;
+    margin-bottom:10px
+  }
+footer {
+  border-color: rgb(17, 53, 56);
+  border-style:double;
+  padding-left: 10px;
+  border-width: 3px;
+}
